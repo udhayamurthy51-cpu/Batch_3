@@ -1,3 +1,2 @@
 # Welcome to the git & GitHub tutorial
-# Day_1 is in progress
-
+# Day_1 is in completed 
